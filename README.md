@@ -1,11 +1,11 @@
 <h1 align="center">Hi There 👋, I'm Mustafa Yurtdas</h1>
-<h3 align="center">Full Stack Automation Test Engineer from Turkey</h3>
-<p> &nbsp;</p>
+
 <img src="https://raw.githubusercontent.com/mustafayurtdas/mustafayurtdas/bee3dfefaf71a30fa0f9eb89a72952fdf9a65949/cloud_it2.jpg" />
 <p> &nbsp;</p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mustafayurtdas&label=Profile%20views&color=0e75b6&style=flat" alt="mustafayurtdas" /> </p>
 <p> &nbsp;</p>
-
+<h3 align="center">Full Stack Automation Test Engineer from Turkey</h3>
+<p> &nbsp;</p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafayurtdas" alt="mustafayurtdas" /></a> </p>
 <p> &nbsp;</p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafayurtdas&show_icons=true&locale=en" alt="mustafayurtdas" /></p>

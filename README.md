@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **myurtdas06@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/mustafayurtdas06](www.linkedin.com/in/mustafayurtdas06)
+- 📄 Know about my experiences [www.linkedin.com/in/mustafayurtdas](www.linkedin.com/in/mustafayurtdas)
 
 - ⚡ Fun fact **I think I am funny 😄**
 
@@ -33,6 +33,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mustafayurtdas06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafayurtdas06" height="40" width="60" /></a>
+<a href="https://linkedin.com/in/mustafayurtdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafayurtdas06" height="40" width="60" /></a>
 <a href="https://stackoverflow.com/users/21349493/mustafa-yurtdas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21349493" height="40" width="60" /></a>
 </p>
